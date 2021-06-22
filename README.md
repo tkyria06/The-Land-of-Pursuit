@@ -1,11 +1,11 @@
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Game Story Summary
 
-In this project we have implemented and evaluate three community detection algorithms.
+Αfter an operation which did not go according to plan, you find yourself in a car trying to escape from the terrorists, who are chasing you by a helicopter throwing missiles. Your only concern is how to survive.
 
 Authors:
-* Andreas Panayiotou
 * Theodoros Kyriakou
+* Andreas Panayiotou
 
 ## Prerequisites
 
@@ -16,7 +16,7 @@ Below are shown the necessary python libraries to run the algorithms.
   ```
 ## Demonstration
 
-In this section you can see the output of each algorithm on Zachary's karate club Network.
+In this section you can see some images from game's world.
 
 <img src="DemoImages/Demo1.PNG">
 <img src="DemoImages/Demo2.PNG">
