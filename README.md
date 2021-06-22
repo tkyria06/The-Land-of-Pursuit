@@ -1,8 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Game Story Summary
 
-Αfter an operation which did not go according to plan, you find yourself in a car trying to escape from the terrorists, who are chasing you by a helicopter throwing missiles. Your only concern is how to survive.
-
 Land of Pursuit: is a racing-survival game where you find yourself in a supercar trying to escape from the terrorists where you are chased in a secluded village. The enemy is trying to kill you by throwing missiles from a helicopter. It is a matter of life and death and that is why you must run fast with no hesitation. The longer you stay alive, the more points you earn. Along the way you will find in front of you various categories of PowerUps where will help you to survive longer and earn more points. As time goes on and you stay alive, you level up. Thus, the missiles fired by your enemies will do more damage to you.
 
 Authors:
